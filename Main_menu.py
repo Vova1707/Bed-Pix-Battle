@@ -1,5 +1,5 @@
 def main():
-    print('Bed Pix Battle!!!!!')
+    print('Popov Aleksey')
 
 
 if __name__ == '__main__':
